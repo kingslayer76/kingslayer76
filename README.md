@@ -90,9 +90,6 @@ A **Discord VPS management bot** that connects hosting workflows to a community.
 
 `Python` &nbsp; `Discord Bot` &nbsp; `LXC` &nbsp; `Automation`
 
-<div align="center">
-  <a href="https://github.com/kingslayer76?tab=repositories"><b>Explore all my repositories →</b></a>
-</div>
 
 <div align="center"><img src="assets/orbit-divider.gif" alt="" width="100%" /></div>
 
