@@ -1,94 +1,80 @@
 <div align="center">
+  <img src="assets/kingslayer-banner.gif" alt="KingSlayer — building the cloud, one project at a time" width="100%" />
 
-# 🟠 Atyro Labs
+  ### Cloud infrastructure &nbsp;✦&nbsp; Automation &nbsp;✦&nbsp; Open source
 
-### 🚀 Cloud Infrastructure • Full-Stack Development • Minecraft Solutions
+  Building practical tools for virtual machines, hosting panels, and communities.
 
-Building modern hosting platforms, server management panels, automation tools, and cloud infrastructure.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Atyro_Labs-181717?style=for-the-badge&logo=github)](https://github.com/hopingboyz)
-[![Atyro Cloud](https://img.shields.io/badge/Atyro_Cloud-FF8C00?style=for-the-badge&logo=cloudflare&logoColor=white)](https://atyro.cloud)
-[![YouTube](https://img.shields.io/badge/YouTube-HopingBoyz-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@HopingBoyz)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/kSTZZvZBhK)
-
-![Profile Views](https://komarev.com/ghpvc/?username=hopingboyz&style=flat-square&color=orange&label=PROFILE+VIEWS)
-
+  [![GitHub](https://img.shields.io/badge/GitHub-kingslayer76-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kingslayer76)
+  [![Discord](https://img.shields.io/badge/Discord-Join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rk68XqtvNH)
+  ![Discord username](https://img.shields.io/badge/Discord-KingSlayer76-111827?style=for-the-badge&logo=discord&logoColor=7289DA)
 </div>
 
----
+<br />
 
-## 🏢 About Atyro Labs
+## 👋 Hey, I'm KingSlayer
 
-**Atyro Labs** is a technology and development brand focused on cloud infrastructure, hosting solutions, and modern software development.
+I'm a developer who enjoys turning ideas into useful software — from cloud management panels to Discord automation. I like building clean interfaces, exploring virtualization, and making infrastructure easier to manage.
 
-Our goal is to build reliable, practical, and developer-friendly tools for server management, virtualization, and Minecraft hosting.
+- ☁️ **Building:** hosting panels and VM management tools
+- 🤖 **Automating:** VPS workflows and Discord communities
+- 🌱 **Learning:** better ways to build, design, and ship
 
-- ☁️ **Cloud Infrastructure:** VPS hosting, server provisioning, and automation.
-- 💻 **Full-Stack Development:** JavaScript, Node.js, Python, HTML, CSS, and EJS.
-- 🖥️ **Virtualization:** Proxmox VE, Docker, QEMU, and Linux containers.
-- 🎮 **Minecraft Solutions:** Server management panels, plugins, and hosting tools.
-- 🤖 **Automation:** Discord bots, VPS management, and community integrations.
-- ⚙️ **Backend Systems:** REST APIs, SQLite, Socket.IO, and server-side applications.
+<br />
 
-## 🛠️ Technologies
+## 🚀 Featured projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=pterodactyl&logoColor=white)
+### `01` &nbsp; [StarCloud-VM](https://github.com/kingslayer76/StarCloud-VM)
+**A web panel for managing QEMU/KVM virtual machines.** Create and manage VMs with admin and user dashboards, OS templates, and browser-based console, SSH, and file access.
 
-## 🌟 Featured Projects
+![Node.js](https://img.shields.io/badge/Node.js-18283B?style=flat-square&logo=nodedotjs&logoColor=83CD29)
+![EJS](https://img.shields.io/badge/EJS-18283B?style=flat-square&logo=ejs&logoColor=white)
+![QEMU KVM](https://img.shields.io/badge/QEMU%20%2F%20KVM-18283B?style=flat-square&logo=linux&logoColor=white)
 
-- ☁️ **[Atyro Cloud](https://atyro.cloud)** — Cloud hosting and VPS management.
-- 🎮 **Atyro Panel** — Minecraft server management panel.
-- ⚙️ **Atyro Panel Daemon** — Remote node agent for server management.
-- 🖥️ **[HVM Panel](https://github.com/hopingboyz/hvm-panel)** — Virtual machine management panel for VPS hosting.
-- 🎮 **[UnixPanel](https://github.com/hopingboyz/unix-panel)** — Minecraft server hosting panel.
-- 🔧 **[Blueprint Installer](https://github.com/hopingboyz/blueprint)** — Pterodactyl Blueprint and addon installation tools.
+### `02` &nbsp; [StarCloud-HVM-PANEL](https://github.com/kingslayer76/StarCloud-HVM-PANEL)
+**An LXC-based VPS management panel for hosting workflows.** Manage containers across nodes with a browser console, file manager, snapshots, and live resource monitoring.
 
-## 📊 GitHub Statistics
+![Python](https://img.shields.io/badge/Python-18283B?style=flat-square&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/Flask-18283B?style=flat-square&logo=flask&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-18283B?style=flat-square&logo=linux&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/hopingboyz">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=hopingboyz&show_icons=true&theme=dark&hide_border=true" alt="Atyro Labs GitHub Statistics" />
-  </a>
-  <a href="https://github.com/hopingboyz">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hopingboyz&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
-  </a>
-</p>
+### `03` &nbsp; [PRIME-VM-V1](https://github.com/kingslayer76/PRIME-VM-V1)
+**A Discord bot for VPS and community management.** Manage LXC containers and nodes, monitor resources, and handle workflows such as port forwarding and panel installation from Discord.
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hopingboyz&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/hopingboyz?style=flat-square&color=blue&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/hopingboyz?style=flat-square&color=yellow&label=Stars" alt="GitHub Stars" />
-</p>
-
----
-
-## 🌐 Connect With Atyro Labs
-
-- 💻 **GitHub:** [King Slayer](https://github.com/kingslayer76)
-- 💬 **Discord:** [Join Our Community](https://discord.gg/Rk68XqtvNH)
-
----
+![Python](https://img.shields.io/badge/Python-18283B?style=flat-square&logo=python&logoColor=FFD43B)
+![Discord](https://img.shields.io/badge/Discord_Bot-18283B?style=flat-square&logo=discord&logoColor=8FA1FF)
+![LXC](https://img.shields.io/badge/LXC-18283B?style=flat-square&logo=linux&logoColor=white)
 
 <div align="center">
+  <a href="https://github.com/kingslayer76?tab=repositories"><b>Explore all repositories →</b></a>
+</div>
 
-### ⚡ BUILD • INNOVATE • SCALE
+<br />
 
-**Engineering better tools for hosting, infrastructure, and developers.**
+## 🛠️ My toolbox
 
-*Developed with passion by Atyro Labs.*
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=83CD29)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=639CFF)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=4DB6E2)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 
+<br />
+
+## 💬 Let's connect
+
+Have an idea, a question, or just want to talk about hosting and development? Come say hello.
+
+**Discord:** `KingSlayer76` &nbsp; • &nbsp; **Community:** [Join the server](https://discord.gg/Rk68XqtvNH) &nbsp; • &nbsp; **GitHub:** [@kingslayer76](https://github.com/kingslayer76)
+
+<br />
+
+<div align="center">
+  <img src="assets/orbit-divider.gif" alt="" width="100%" />
+  <br />
+  <b>BUILD WITH PURPOSE. KEEP EXPLORING.</b><br />
+  <sub>Made with passion by KingSlayer.</sub>
 </div>
