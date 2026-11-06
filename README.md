@@ -78,10 +78,8 @@ Our goal is to build reliable, practical, and developer-friendly tools for serve
 
 ## 🌐 Connect With Atyro Labs
 
-- 💻 **GitHub:** [Atyro Labs](https://github.com/hopingboyz)
-- ☁️ **Website:** [atyro.cloud](https://atyro.cloud)
-- 📺 **YouTube:** [HopingBoyz](https://youtube.com/@HopingBoyz)
-- 💬 **Discord:** [Join Our Community](https://discord.gg/kSTZZvZBhK)
+- 💻 **GitHub:** [King Slayer](https://github.com/kingslayer76)
+- 💬 **Discord:** [Join Our Community](https://discord.gg/Rk68XqtvNH)
 
 ---
 
