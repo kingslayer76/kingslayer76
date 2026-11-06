@@ -12,7 +12,6 @@
   ![Discord username](https://img.shields.io/badge/Discord-KingSlayer76-101828?style=for-the-badge&logo=discord&logoColor=8FA1FF)
 
   
-
 <br />
 
 ## 👋 About Me
