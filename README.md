@@ -11,8 +11,7 @@
   [![Discord](https://img.shields.io/badge/Discord-Join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rk68XqtvNH)
   ![Discord username](https://img.shields.io/badge/Discord-KingSlayer76-101828?style=for-the-badge&logo=discord&logoColor=8FA1FF)
 
-  ![Profile views](https://komarev.com/ghpvc/?username=kingslayer76&label=PROFILE+VIEWS&color=0087ff&style=flat-square)
-</div>
+  
 
 <br />
 
