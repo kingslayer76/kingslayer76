@@ -100,10 +100,10 @@ A **Discord VPS management bot** that connects hosting workflows to a community.
 
 <div align="center">
   <a href="https://github.com/kingslayer76">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kingslayer76&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="KingSlayer's GitHub statistics" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kingslayer76&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt= />
   </a>
   <a href="https://github.com/kingslayer76?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingslayer76&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="KingSlayer's most used languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingslayer76&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt= />
   </a>
   <br />
   <img width="70%" src="https://streak-stats.demolab.com/?user=kingslayer76&amp;theme=tokyonight&amp;hide_border=true" alt="KingSlayer's GitHub contribution streak" />
